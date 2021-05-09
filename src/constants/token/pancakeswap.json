@@ -1,0 +1,85 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC.png"
+    },
+    {
+      "name": "Bakery Token",
+      "symbol": "BAKE",
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/bake.png"
+    },
+    {
+      "name": "PantherSwap Token",
+      "symbol": "PANTHER",
+      "address": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/panther.png"
+    },
+    {
+      "name": "1May Token",
+      "symbol": "MAY",
+      "address": "0x287273776a5e20201f1716228e368a1db4cfee01",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/may.png"
+    },
+    {
+      "name": "SafeBSC Token",
+      "symbol": "SCZ",
+      "address": "0x39f1014a88c8ec087cedf1bfc7064d24f507b894",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/scz.png"
+    },  
+    {
+      "name": "Doublemoon Token",
+      "symbol": "DBM",
+      "address": "0x0314e5a39806C30D67B869EE1bCDABee7e08dE74",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "/images/coins/scz.png"
+    },      
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+  ]
+}
